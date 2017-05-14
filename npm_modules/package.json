@@ -4,15 +4,16 @@
   "description": "npm test freecodecamp",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Chris Gkalfas",
   "license": "ISC",
-  "repository": https://github.com/ChrisGk89/npm-test.git {
+  "repository": npm-test {
     "type": "git",
-    "url": "ChrisGk89"
+    "url": "https://github.com/ChrisGk89/npm-test.git"
   },
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
   }
 }
+
